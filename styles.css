@@ -3,7 +3,6 @@ body {
 }
 p {
     color: rgb(255, 255, 255);
-    width: 50%;
 }
 h1 {
     color:rgb(255, 255, 255);
@@ -15,49 +14,6 @@ h3 {
     color:rgb(255, 255, 255);
 }
 
-
-
-a:link.int    {
-    color:rgb(63, 127, 255);
-    text-decoration: none;
-}
-a:visited.int {
-    color:rgb(63, 127, 255);
-    text-decoration: none;
-}
-a:hover.int   {
-    color:rgb(0, 191, 191);
-    text-decoration: underline;
-}
-a:focus.int   {
-    color:rgb(0, 191, 191);
-    text-decoration: underline;
-}
-a:active.int  {
-    color:rgb(0, 191, 191);
-    text-decoration: underline;
-}
-
-a:link.pdf    {
-    color:rgb(191, 63, 255);
-    text-decoration: none;
-}
-a:visited.pdf {
-    color:rgb(191, 63, 255);
-    text-decoration: none;
-}
-a:hover.pdf   {
-    color:rgb(0, 191, 191);
-    text-decoration: underline;
-}
-a:focus.pdf   {
-    color:rgb(0, 191, 191);
-    text-decoration: underline;
-}
-a:active.pdf  {
-    color:rgb(0, 191, 191);
-    text-decoration: underline;
-}
 
 a:link    {
     color:rgb(0, 255, 0);
